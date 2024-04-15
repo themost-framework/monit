@@ -1,4 +1,4 @@
-import { MonitorService } from "../src/MonitorService";
+import { MonitorService } from '@themost/monit';
 
 describe('Service', () => {
     it('should create instance', () => {
